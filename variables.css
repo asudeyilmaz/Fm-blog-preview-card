@@ -1,0 +1,17 @@
+:root {
+  /* colors */
+  --Yellow: hsl(47, 88%, 63%);
+  --Gray-500: hsl(0, 0%, 42%);
+  --Gray-950: hsl(0, 0%, 7%);
+
+  /* layouts*/
+  --gap-20: clamp(18px, calc(17.429px + 0.179vw), 20px);
+  --gap-10: clamp(0.5rem, calc(0.464rem + 0.179vw), 0.625rem);
+  --max-width-350: clamp(18.75rem, 17.65rem + 4.69vw, 21.875rem);
+  --width-50: clamp(3.333rem, calc(3.143rem + 0.893vw), 4rem);
+  --padding-5-10: clamp(0.267rem, calc(0.248rem + 0.089vw), 0.333rem)
+    clamp(0.467rem, calc(0.41rem + 0.268vw), 0.667rem);
+  --padding-20: clamp(1.133rem, calc(1.076rem + 0.268vw), 1.333rem);
+  --font-size: clamp(0.875rem, 0.84rem + 0.18vw, 1rem);
+  --font-size-big: clamp(1.25rem, 1.18rem + 0.36vw, 1.5rem);
+}
