@@ -19,8 +19,8 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-flex-VlcLaKMcz8]
+- Live Site URL: [https://asudeyilmaz.github.io/Fm-blog-preview-card/]
 
 ## My process
 
